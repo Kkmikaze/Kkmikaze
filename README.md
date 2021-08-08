@@ -18,8 +18,12 @@ a developer who can apply work methods like sangkuriang, doing a job overnight. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
-[![Thugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkmikaze&theme=react&show_icons=true)](https://github.com/Kkmikaze/Kkmikaze)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkmikaze&theme=react&layout=compact)](https://github.com/Kkmikaze/Kkmikaze)
-
-[![Thugi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kkmikaze&theme=react&layout=compact)](https://github.com/Kkmikaze/Kkmikaze)
+<a href="https://github.com/Kkmikaze/Kkmikaze">
+  <img align="center" width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkmikaze&theme=react&layout=compact" />
+</a>
+<a href="https://github.com/Kkmikaze/Kkmikaze">
+  <img align="center" width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kkmikaze&theme=react&layout=compact" />
+</a>
+<a href="https://github.com/Kkmikaze/Kkmikaze">
+  <img align="center" width="800" src="https://github-readme-stats.vercel.app/api?username=Kkmikaze&theme=react&show_icons=true" />
+</a>
