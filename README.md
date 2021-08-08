@@ -20,6 +20,6 @@ a developer who can apply work methods like sangkuriang, doing a job overnight. 
 
 [![Thugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkmikaze&theme=react&show_icons=true)](https://github.com/Kkmikaze/Kkmikaze)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkmikaze&layout=compact)](https://github.com/Kkmikaze/Kkmikaze)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkmikaze&theme=react&layout=compact)](https://github.com/Kkmikaze/Kkmikaze)
 
-[![Thugi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kkmikaze&layout=compact)](https://github.com/Kkmikaze/Kkmikaze)
+[![Thugi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kkmikaze&theme=react&layout=compact)](https://github.com/Kkmikaze/Kkmikaze)
