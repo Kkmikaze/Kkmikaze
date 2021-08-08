@@ -19,11 +19,11 @@ a developer who can apply work methods like sangkuriang, doing a job overnight. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 <a href="https://github.com/Kkmikaze/Kkmikaze">
-  <img align="center" width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkmikaze&theme=react&layout=compact" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkmikaze&theme=react&layout=compact" />
 </a>
 <a href="https://github.com/Kkmikaze/Kkmikaze">
-  <img align="center" width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kkmikaze&theme=react&layout=compact" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kkmikaze&theme=react&layout=compact" />
 </a>
 <a href="https://github.com/Kkmikaze/Kkmikaze">
-  <img align="center" width="800" src="https://github-readme-stats.vercel.app/api?username=Kkmikaze&theme=react&show_icons=true" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Kkmikaze&theme=react&show_icons=true" />
 </a>
