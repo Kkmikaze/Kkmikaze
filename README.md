@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Thugi
 A developer who can apply work methods like sangkuriang, doing a job overnight. And PALUGADA is my motto so that I can learn or do new things that I may never have mastered.
-- 🌱 I’m currently learning Go and C# on Unity for Developing Game
+- 🌱 I’m currently learning Go and Docker
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/kkmikaze/) or [Email](mailto:thuginirbialam@gmail.com)
 
 <a href="https://github.com/Kkmikaze/Kkmikaze">
