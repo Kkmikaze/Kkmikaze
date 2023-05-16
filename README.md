@@ -3,9 +3,4 @@ A developer who can apply work methods like sangkuriang, doing a job overnight. 
 - 🌱 I’m currently learning Go and Docker
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/kkmikaze/) or [Email](mailto:thuginirbialam@gmail.com)
 
-<a href="https://github.com/Kkmikaze/Kkmikaze">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kkmikaze&theme=react&layout=compact" />
-</a>
-<a href="https://github.com/Kkmikaze/Kkmikaze">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Kkmikaze&theme=react&show_icons=true" />
-</a>
+[![wakatime](https://wakatime.com/badge/user/5a4f1e07-dafa-4523-93cc-df1aba25d35f.svg)](https://wakatime.com/@5a4f1e07-dafa-4523-93cc-df1aba25d35f)
