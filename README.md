@@ -9,4 +9,4 @@ A developer who can apply work methods like sangkuriang, doing a job overnight. 
 
 [![Github Stats](https://github-readme-stats-kkmikaze.vercel.app/api?username=Kkmikaze&layout=compact&theme=react&show_icons=true)](https://github.com/Kkmikaze/Kkmikaze)
 
-[![Wakatime Stats](https://github-readme-stats-kkmikaze.vercel.app/api/wakatime?username=@Kkmikaze&layout=compact&theme=react&show_icons=true)](https://github.com/Kkmikaze/Kkmikaze)
+[![Wakatime Stats](https://github-readme-stats-kkmikaze.vercel.app/api/wakatime?username=@Kkmikaze&layout=compact&theme=react&show_icons=true&langs_count=20&hide=html,css,vue.js,blade%20template,other,text,auto_detected,ini,csv,jade,sourcemap,erb,textmate,env%20file,go.mod,scss,xml,batchfile,emacs%20lisp,pug,tsconfig,perl,apache%20config,%20nginx%20configuration%20file,git%20config,gitignore%20file)](https://github.com/Kkmikaze/Kkmikaze)
