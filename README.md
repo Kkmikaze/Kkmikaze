@@ -7,6 +7,6 @@ A developer who can apply work methods like sangkuriang, doing a job overnight. 
 
 [![Top Langs](https://github-readme-stats-kkmikaze.vercel.app/api/top-langs/?username=Kkmikaze&layout=compact&theme=react&show_icons=true&langs_count=10&exclude_repo=github-readme-stats&hide=html,css,blade)](https://github.com/Kkmikaze/Kkmikaze)
 
-[![Github Stats](https://github-readme-stats-kkmikaze.vercel.app/api?username=Kkmikaze&layout=compact&theme=react&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true)](https://github.com/Kkmikaze/Kkmikaze)
+[![Github Stats](https://github-readme-stats-kkmikaze.vercel.app/api?username=Kkmikaze&layout=compact&theme=react&show_icons=true&count_private=true)](https://github.com/Kkmikaze/Kkmikaze)
 
 [![Wakatime Stats](https://github-readme-stats-kkmikaze.vercel.app/api/wakatime?username=@Kkmikaze&layout=compact&theme=react&show_icons=true&langs_count=20&hide=blade%20template,other,text,auto_detected,ini,csv,jade,sourcemap,erb,textmate,env%20file,go.mod,scss,xml,batchfile,emacs%20lisp,pug,tsconfig,perl,apache%20config,%20nginx%20configuration%20file,git%20config,gitignore%20file)](https://github.com/Kkmikaze/Kkmikaze)
